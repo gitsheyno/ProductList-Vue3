@@ -1,6 +1,4 @@
-# Product Listing – AutoVex Assignment
-
-This project was developed as a **frontend technical assignment for AutoVex**.
+# Product Listing
 
 It demonstrates a production-oriented product listing implementation using **Vue 3**, **TypeScript**, and **Tailwind CSS**, with an emphasis on UX best practices, accessibility, reusable UI components, modular logic, and maintainable frontend patterns.
 
